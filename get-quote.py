@@ -1,4 +1,4 @@
-def main():
+def primary():
   print("Keep it logically awesome.")
 
   f = open("quotes.txt")
@@ -8,4 +8,4 @@ def main():
   print(quotes)
 
 
-main()
+primary()
